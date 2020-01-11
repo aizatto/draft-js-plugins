@@ -1,15 +1,16 @@
 {
-  "name": "draft-js-plugins-editor",
+  "name": "@aizatto/draft-js-plugins-editor",
   "version": "3.0.0",
   "description": "Editor for DraftJS Plugins",
-  "author": {
+  "author": "Aizat Faiz <aizat.faiz@gmail.com>",
+  "contributors": [{
     "name": "Nik Graf",
     "email": "nik@nikgraf.com",
     "url": "http://www.nikgraf.com"
-  },
+  }],
   "repository": {
     "type": "git",
-    "url": "https://github.com/draft-js-plugins/draft-js-plugins.git"
+    "url": "https://github.com/aizatto/draft-js-plugins.git"
   },
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",

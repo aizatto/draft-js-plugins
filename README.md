@@ -1,3 +1,11 @@
+# Fork
+
+This is a fork of [draft-js-plugins](https://github.com/draft-js-plugins/draft-js-plugins)
+
+I forked it to increment `draft-js-plugins-editor` as it React was warning to replace `componentWillMount` with `UNSAFE_componentWillMount`.
+
+This was patched in https://github.com/draft-js-plugins/draft-js-plugins/commit/157a3dbbd275a54ecfd82fef1df621fc52cd5e3c but a new npm package was never released.
+
 # DraftJS Plugins
 
 ![Draft JS Plugins Logo](http://static.nikgraf.com/draft-js-plugins/draft-js-plugins.svg)
