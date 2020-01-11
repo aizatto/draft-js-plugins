@@ -1,13 +1,15 @@
 {
   "name": "@aizatto/draft-js-plugins-editor",
-  "version": "3.0.0",
+  "version": "3.0.1-0",
   "description": "Editor for DraftJS Plugins",
   "author": "Aizat Faiz <aizat.faiz@gmail.com>",
-  "contributors": [{
-    "name": "Nik Graf",
-    "email": "nik@nikgraf.com",
-    "url": "http://www.nikgraf.com"
-  }],
+  "contributors": [
+    {
+      "name": "Nik Graf",
+      "email": "nik@nikgraf.com",
+      "url": "http://www.nikgraf.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/aizatto/draft-js-plugins.git"
